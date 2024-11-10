@@ -6,7 +6,7 @@
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  background-image: url(bg.png);
+  background-image: url(assets/img/bg.png);
   display: flex;
   justify-content: center;
 }

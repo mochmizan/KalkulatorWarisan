@@ -14,8 +14,12 @@
         "dest": "/public/style.css"
       },
       {
-        "src": "/assets/img/(.*).png",
-        "dest": "/public/assets/img/$1"
+        "src": "/assets/img/bg.png",
+        "dest": "/public/assets/img/bg.png"
+      },
+      {
+        "src": "/assets/img/Logo.png",
+        "dest": "/public/assets/img/Logo.png"
       },
       {
         "src": "/(.*)",

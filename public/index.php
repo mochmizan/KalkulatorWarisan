@@ -374,7 +374,7 @@ function re_set(){
     <meta name="description" content="Alat penghitung warisan secara online" />
     <title>WARIS CALCULATOR ONLINE</title>
     <link rel="stylesheet" href="style.css" />
-    <link rel="shorcut icon" href="Logo.png" />
+    <link rel="shorcut icon" href="assets/img/Logo.png" />
 
 </head>
 
@@ -387,7 +387,7 @@ function re_set(){
                 <span class="warisan"> Warisan</span>
             </h1>
             <div class="atas1" style="margin-left: auto; margin-right: 0">
-                <img style="width: 65px" src="Logo.png" alt="logo" />
+                <img style="width: 65px" src="assets/img/Logo.png" alt="logo" />
             </div>
         </div>
         <!--Title dan Logo-->
